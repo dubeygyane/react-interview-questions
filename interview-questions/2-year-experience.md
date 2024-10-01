@@ -107,6 +107,3 @@ Lifecycle events in functional components are handled using the `useEffect` hook
 Custom hooks are functions that encapsulate reusable logic using React hooks. You create one by writing a function that can use other hooks like `useState` and `useEffect`, then use it across components.
 
 ---
-
-## License
-This content is open source and available under the [MIT License](LICENSE).
